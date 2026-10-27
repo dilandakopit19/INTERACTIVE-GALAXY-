@@ -5,7 +5,7 @@
 3. Di terminal VS Code jalankan: `python server.py`
 4. Buka http://localhost:8000 lalu tekan Ctrl+Shift+R.
 
-Cek versi: judul tab harus "Galaksi Interaktif v11.1" dan ada tombol "Reset" di pojok kanan atas.
+Cek versi: judul tab harus "Galaksi Interaktif v11.2" dan ada tombol "Reset" di pojok kanan atas.
 Kalau tidak ada, berarti folder yang disajikan masih berisi index.html lama.
 Server menampilkan nama foldernya saat dijalankan.
 
